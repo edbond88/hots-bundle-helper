@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "bundleId": [2, 3],
+    "name": "Abathur",
+    "imageUrl": "http://media.blizzard.com/heroes/alarak/skins/thumbnails/highlord-of-the-taldarim.jpg",
+    "cost": 10000
+  },
+  {
+    "id": 2,
+    "bundleId": [1, 4],
+    "name": "Alarak",
+    "imageUrl": "http://media.blizzard.com/heroes/alarak/skins/thumbnails/highlord-of-the-taldarim.jpg",
+    "cost": 10000
+  },
+  {
+    "id": 3,
+    "bundleId": [4],
+    "name": "Anub'arak",
+    "imageUrl": "zzzzzzzzz",
+    "cost": 4000
+  },
+  {
+    "id": 4,
+    "bundleId": [4],
+    "name": "Artanis",
+    "imageUrl": "zzzzzzzzz",
+    "cost": 10000
+  },
+  {
+    "id": 5,
+    "bundleId": [2, 4],
+    "name": "Arthas",
+    "imageUrl": "zzzzzzzzz",
+    "cost": 7000
+  },
+  {
+    "id": 6,
+    "bundleId": [3],
+    "name": "Auriel",
+    "imageUrl": "zzzzzzzzz",
+    "cost": 10000
+  },
+  {
+    "id": 7,
+    "bundleId": [2],
+    "name": "Azmodan",
+    "imageUrl": "zzzzzzzzz",
+    "cost": 2000
+  },
+  {
+    "id": 8,
+    "bundleId": [2, 3],
+    "name": "Brightwing",
+    "imageUrl": "zzzzzzzzz",
+    "cost": 7000
+  },
+  {
+    "id": 9,
+    "bundleId": [],
+    "name": "Cassia",
+    "imageUrl": "zzzzzzzzz",
+    "cost": 10000
+  },
+  {
+    "id": 10,
+    "bundleId": [3, 4],
+    "name": "Chen",
+    "imageUrl": "zzzzzzzzz",
+    "cost": 7000
+  },
+  {
+    "id": 11,
+    "bundleId": [],
+    "name": "Cho'Gall",
+    "imageUrl": "zzzzzzzzz",
+    "cost": 10000
+  },
+  {
+    "id": 12,
+    "bundleId": [1],
+    "name": "Chromie",
+    "imageUrl": "zzzzzzzzz",
+    "cost": 10000
+  },
+  {
+    "id": 13,
+    "bundleId": [3, 4],
+    "name": "Dehaka",
+    "imageUrl": "zzzzzzzzz",
+    "cost": 10000
+  }
+]

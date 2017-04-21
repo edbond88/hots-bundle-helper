@@ -1,0 +1,27 @@
+.hero {
+  text-align: center;
+  border: 2px solid transparent;
+  display: flex;
+  flex-direction: column;
+  border-radius: 3px;
+  padding: 7px;
+  width: auto;
+  cursor: pointer;
+}
+
+.hero:hover {
+  border-color: rgb(179, 225, 241);
+}
+
+.hero._checked {
+  border-color: #0098ca;
+}
+
+.heroName {
+  font-size: 20px;
+}
+.heroCost {
+  font-size: 16px;
+  font-weight: 300;
+  color: #929292;
+}

@@ -1,0 +1,10 @@
+.SelectList {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
+
+.SelectList .hero {
+  margin: 0 10px 10px 0;
+}
