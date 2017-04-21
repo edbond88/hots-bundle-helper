@@ -1,0 +1,1 @@
+hots-bundle-helper
