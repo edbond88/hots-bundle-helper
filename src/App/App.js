@@ -102,7 +102,11 @@ class App extends Component {
               );
           })}
         </div>
-
+        <div className="app-footer">
+          <div className="l-in">
+            created by <a href="http://edbond.name/" target="_blank">edbond.name</a>
+          </div>
+        </div>
       </div>
     );
   }

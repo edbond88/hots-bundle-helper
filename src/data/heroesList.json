@@ -3,91 +3,384 @@
     "id": 1,
     "bundleId": [2, 3],
     "name": "Abathur",
-    "imageUrl": "http://media.blizzard.com/heroes/alarak/skins/thumbnails/highlord-of-the-taldarim.jpg",
     "cost": 10000
   },
   {
     "id": 2,
     "bundleId": [1, 4],
     "name": "Alarak",
-    "imageUrl": "http://media.blizzard.com/heroes/alarak/skins/thumbnails/highlord-of-the-taldarim.jpg",
     "cost": 10000
   },
   {
     "id": 3,
     "bundleId": [4],
     "name": "Anub'arak",
-    "imageUrl": "zzzzzzzzz",
     "cost": 4000
   },
   {
     "id": 4,
     "bundleId": [4],
     "name": "Artanis",
-    "imageUrl": "zzzzzzzzz",
     "cost": 10000
   },
   {
     "id": 5,
     "bundleId": [2, 4],
     "name": "Arthas",
-    "imageUrl": "zzzzzzzzz",
     "cost": 7000
   },
   {
     "id": 6,
     "bundleId": [3],
     "name": "Auriel",
-    "imageUrl": "zzzzzzzzz",
     "cost": 10000
   },
   {
     "id": 7,
     "bundleId": [2],
     "name": "Azmodan",
-    "imageUrl": "zzzzzzzzz",
     "cost": 2000
   },
   {
     "id": 8,
     "bundleId": [2, 3],
     "name": "Brightwing",
-    "imageUrl": "zzzzzzzzz",
     "cost": 7000
   },
   {
     "id": 9,
     "bundleId": [],
     "name": "Cassia",
-    "imageUrl": "zzzzzzzzz",
     "cost": 10000
   },
   {
     "id": 10,
     "bundleId": [3, 4],
     "name": "Chen",
-    "imageUrl": "zzzzzzzzz",
     "cost": 7000
   },
   {
     "id": 11,
     "bundleId": [],
     "name": "Cho'Gall",
-    "imageUrl": "zzzzzzzzz",
     "cost": 10000
   },
   {
     "id": 12,
     "bundleId": [1],
     "name": "Chromie",
-    "imageUrl": "zzzzzzzzz",
     "cost": 10000
   },
   {
     "id": 13,
     "bundleId": [3, 4],
     "name": "Dehaka",
-    "imageUrl": "zzzzzzzzz",
+    "cost": 10000
+  },
+  {
+    "id": 14,
+    "bundleId": [2, 4],
+    "name": "Diablo",
+    "cost": 2000
+  },
+  {
+    "id": 15,
+    "bundleId": [2, 3],
+    "name": "E.T.C.",
+    "cost": 2000
+  },
+  {
+    "id": 16,
+    "bundleId": [1],
+    "name": "Falstad",
+    "cost": 7000
+  },
+  {
+    "id": 17,
+    "bundleId": [],
+    "name": "Gazlowe",
+    "cost": 2000
+  },
+  {
+    "id": 18,
+    "bundleId": [1, 2],
+    "name": "Greymane",
+    "cost": 7000
+  },
+  {
+    "id": 19,
+    "bundleId": [1],
+    "name": "Gul'dan",
+    "cost": 10000
+  },
+  {
+    "id": 20,
+    "bundleId": [4],
+    "name": "Illidan",
+    "cost": 4000
+  },
+  {
+    "id": 21,
+    "bundleId": [],
+    "name": "Jaina",
+    "cost": 4000
+  },
+  {
+    "id": 22,
+    "bundleId": [2, 3],
+    "name": "Johanna",
+    "cost": 4000
+  },
+  {
+    "id": 23,
+    "bundleId": [1],
+    "name": "Kael'thas",
+    "cost": 7000
+  },
+  {
+    "id": 24,
+    "bundleId": [1, 2],
+    "name": "Kerrigan",
+    "cost": 4000
+  },
+  {
+    "id": 25,
+    "bundleId": [3, 4],
+    "name": "Kharazim",
+    "cost": 7000
+  },
+  {
+    "id": 26,
+    "bundleId": [4],
+    "name": "Leoric",
+    "cost": 7000
+  },
+  {
+    "id": 27,
+    "bundleId": [2, 3],
+    "name": "Li Li",
+    "cost": 2000
+  },
+  {
+    "id": 28,
+    "bundleId": [1, 2],
+    "name": "Li-Ming",
+    "cost": 10000
+  },
+  {
+    "id": 29,
+    "bundleId": [2, 3],
+    "name": "Lt. Morales",
+    "cost": 10000
+  },
+  {
+    "id": 30,
+    "bundleId": [3],
+    "name": "Lúcio",
+    "cost": 10000
+  },
+  {
+    "id": 31,
+    "bundleId": [1],
+    "name": "Lunara",
+    "cost": 7000
+  },
+  {
+    "id": 32,
+    "bundleId": [3],
+    "name": "Malfurion",
+    "cost": 2000
+  },
+  {
+    "id": 33,
+    "bundleId": [3],
+    "name": "Medivh",
+    "cost": 10000
+  },
+  {
+    "id": 34,
+    "bundleId": [3, 4],
+    "name": "Muradin",
+    "cost": 4000
+  },
+  {
+    "id": 35,
+    "bundleId": [],
+    "name": "Murky",
+    "cost": 7000
+  },
+  {
+    "id": 36,
+    "bundleId": [1, 2],
+    "name": "Nazeebo",
+    "cost": 4000
+  },
+  {
+    "id": 37,
+    "bundleId": [1],
+    "name": "Nova",
+    "cost": 7000
+  },
+  {
+    "id": 38,
+    "bundleId": [],
+    "name": "Probius",
+    "cost": 10000
+  },
+  {
+    "id": 39,
+    "bundleId": [4],
+    "name": "Ragnaros",
+    "cost": 10000
+  },
+  {
+    "id": 40,
+    "bundleId": [1],
+    "name": "Raynor",
+    "cost": 2000
+  },
+  {
+    "id": 41,
+    "bundleId": [2, 3],
+    "name": "Rehgar",
+    "cost": 7000
+  },
+  {
+    "id": 42,
+    "bundleId": [2, 4],
+    "name": "Rexxar",
+    "cost": 4000
+  },
+  {
+    "id": 43,
+    "bundleId": [4],
+    "name": "Samuro",
+    "cost": 10000
+  },
+  {
+    "id": 44,
+    "bundleId": [],
+    "name": "Sgt. Hammer",
+    "cost": 7000
+  },
+  {
+    "id": 45,
+    "bundleId": [4],
+    "name": "Sonya",
+    "cost": 4000
+  },
+  {
+    "id": 46,
+    "bundleId": [3, 4],
+    "name": "Stitches",
+    "cost": 7000
+  },
+  {
+    "id": 47,
+    "bundleId": [1, 2],
+    "name": "Sylvanas",
+    "cost": 7000
+  },
+  {
+    "id": 48,
+    "bundleId": [3],
+    "name": "Tassadar",
+    "cost": 4000
+  },
+  {
+    "id": 49,
+    "bundleId": [1],
+    "name": "The Butcher",
+    "cost": 7000
+  },
+  {
+    "id": 50,
+    "bundleId": [2],
+    "name": "The Lost Vikings",
+    "cost": 10000
+  },
+  {
+    "id": 51,
+    "bundleId": [4],
+    "name": "Thrall",
+    "cost": 4000
+  },
+  {
+    "id": 52,
+    "bundleId": [1],
+    "name": "Tracer",
+    "cost": 10000
+  },
+  {
+    "id": 53,
+    "bundleId": [1, 2],
+    "name": "Tychus",
+    "cost": 4000
+  },
+  {
+    "id": 54,
+    "bundleId": [3],
+    "name": "Tyrael",
+    "cost": 4000
+  },
+  {
+    "id": 55,
+    "bundleId": [],
+    "name": "Tyrande",
+    "cost": 4000
+  },
+  {
+    "id": 56,
+    "bundleId": [3],
+    "name": "Uther",
+    "cost": 4000
+  },
+  {
+    "id": 57,
+    "bundleId": [1],
+    "name": "Valeera",
+    "cost": 10000
+  },
+  {
+    "id": 58,
+    "bundleId": [1],
+    "name": "Valla",
+    "cost": 2000
+  },
+  {
+    "id": 59,
+    "bundleId": [2, 4],
+    "name": "Varian",
+    "cost": 10000
+  },
+  {
+    "id": 60,
+    "bundleId": [4],
+    "name": "Xul",
+    "cost": 10000
+  },
+  {
+    "id": 61,
+    "bundleId": [],
+    "name": "Zagara",
+    "cost": 4000
+  },
+  {
+    "id": 62,
+    "bundleId": [3, 4],
+    "name": "Zarya",
+    "cost": 10000
+  },
+  {
+    "id": 63,
+    "bundleId": [1],
+    "name": "Zeratul",
+    "cost": 10000
+  },
+  {
+    "id": 64,
+    "bundleId": [1, 2],
+    "name": "Zul'jin",
     "cost": 10000
   }
 ]

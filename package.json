@@ -2,7 +2,7 @@
   "name": "hots-bundle-helper",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://edbond88.github.io/hots-bundle-helper",
+  "homepage": "https://edbond88.github.io/hots-bundle-helper/",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"

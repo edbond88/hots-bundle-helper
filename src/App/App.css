@@ -12,6 +12,11 @@
   color: white;
 }
 
+.app-footer {
+  text-align: center;
+  font-size: 14px;
+  padding: 50px 0 20px;
+}
 
 .bundleCost {
   font-weight: 300;
